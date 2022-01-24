@@ -9,12 +9,12 @@
   "env": {
     "API_ID": {
       "description": "Put the API ID obtained from my.telegram.org",
-      "value": "",
+      "value": "2303792",
       "required": true
     },
     "API_HASH": {
       "description": "Put the API HASH obtained from my.telegram.org",
-      "value": "",
+      "value": "1e293b7a2f7a59c6b5819f7bfc29d340",
       "required": true
     },
     "TGCF_MODE": {
@@ -29,12 +29,12 @@
     },
     "BOT_TOKEN": {
       "description": "(Optional) Put your bot token only if you are running tgcf live with a bot account. To create a new bot, go to @BotFather in Telegram.",
-      "value": "",
+      "value": "5130684380:AAGQG7J3VirUcx0vjPctS9LdkveLw3eURkU",
       "required": false
     },
     "SESSION_STRING": {
       "description": "(Optional) Put this, only if you are using your user account. Generate your session string from here https://replit.com/@aahnik/tg-login. This is NOT required if you are using a bot account.",
-      "value": "",
+      "value": "1BVtsOMgBuxlTigT3xpFCtlqoZasCMX5ZrZ_CmN0aVnFFzBwYphguTM5fAA3-3fzvxtyE46r3gtvFohMrX1L5YJOE8eD-U8zngu91Ya_JtkrNZgCYVOu8WcyRiOwSkZL_Vm-X9b_-T5J2Zve9r5ga5VSLh7DBKWaOQ6J7PrOrbdrT7dmzAd5tiQY8J98BfDxdXBgp9zV92NLLAP2kmVCu70zbS9gU7eZv5yDKOGroVfskiWf3_ZAe2PBfpTaARmdFhacX_xOEgXeaeijLcncjav-uZIsUKa8cDUaUdIy8MjNvydm2J9ko3LKzcLxz1SG71rFUjSVxSj5ziH5CRHZ0ZPe1PeJ3_Yk=",
       "required": false
     }
   }
